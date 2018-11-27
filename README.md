@@ -11,3 +11,5 @@ And then open and fill the Server endpoint URL in the client interface,
 After running the client you can read two items from the client interface.
 
 Both programs have been tested locally and work well !
+
+![image](https://github.com/ShouranMu/OPC-UA-Example/tree/master/pic%20example/example.png)
